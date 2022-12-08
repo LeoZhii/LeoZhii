@@ -1,3 +1,4 @@
-- 👋 Hi, I’m @LeoZhii
-- 🌱 I’m currently learning python
-- 📫 How to reach me discord Leooo#9877
+- Hi, I’m @LeoZhii
+- I’m currently learning python and java
+- My linkedIn: www.linkedin.com/in/LeoZhi
+- My Leetcode: https://leetcode.com/leozhi1/
