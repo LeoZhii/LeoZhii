@@ -1,4 +1,4 @@
 - Hi, I’m @LeoZhii
-- I’m currently learning python and java
+- I’m currently learning java and c
 - My linkedIn: www.linkedin.com/in/LeoZhi
 - My Leetcode: https://leetcode.com/leozhi1/
