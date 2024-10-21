@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available <a href="http://leozhi.ca/projects" target="_blank">here</a>
 
-- 📫 How to reach me **leo.zhi@hotmail.com**
+- 📫 How to reach me <a href="mailto:leo.zhi@hotmail.com">leo.zhi@hotmail.com</a></p>
 
 - 📄 Know about my experiences <a href="http://leozhi.ca/resume" target="_blank">resume</a>
 
