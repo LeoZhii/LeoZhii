@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">Studying CS @ Simon Fraser University</h3>
 
-- 🔭 I’m currently working on <a href="http://leozhi.ca/" target="_blank">my personal website</a>
+- 🔭 I’m currently working on <a href="https://leozhi.ca/" target="_blank">my personal website</a>
 
 - 🌱 I’m currently learning **Vite and Flask**
 
-- 👨‍💻 All of my projects are available <a href="http://leozhi.ca/projects" target="_blank">here</a>
+- 👨‍💻 All of my projects are available <a href="https://leozhi.ca/projects" target="_blank">here</a>
 
 - 📫 How to reach me <a href="mailto:leo.zhi@hotmail.com">leo.zhi@hotmail.com</a></p>
 
-- 📄 Know about my experiences <a href="http://leozhi.ca/resume" target="_blank">resume</a>
+- 📄 Know about my experiences <a href="https://leozhi.ca/resume" target="_blank">resume</a>
 
 - ⚡ Fun fact **I'm currently training for my first Triathlon!**
 
