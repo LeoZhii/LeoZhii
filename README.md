@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://leozhi.ca/" target="_blank">my personal website</a>
 
-- 🌱 I’m currently learning **Vite and Flask**
+- 🌱 I’m currently learning **ASP.NET MVC**
 
 - 👨‍💻 All of my projects are available <a href="https://leozhi.ca/projects" target="_blank">here</a>
 
@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences <a href="https://leozhi.ca/resume" target="_blank">resume</a>
 
-- ⚡ Fun fact **I'm currently training for my first Triathlon!**
+- ⚡ Fun fact **I'm currently training for my first Triathlon in May 2025!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
